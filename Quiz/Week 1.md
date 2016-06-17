@@ -485,7 +485,7 @@ Feedback — Week 1 Quiz  </span>
 </tr>
 <tr data-randomizable-option="data-randomizable-option">
 <td class="course-quiz-student-answer" dir="auto">
-<input dir="auto" class="course-quiz-input" name="answer[3107dab43f66ff516f557e0fce16b479][]" id="gensym_54397c1e2e1e8" value="82d8acff514933da6fea85ec156d6be2" disabled="" type="radio">Random steps</td>
+<input dir="auto" class="course-quiz-input" name="answer[3107dab43f66ff516f557e0fce16b479][]" id="gensym_54397c1e2e1e8" value="82d8acff514933da6fea85ec156d6be2" disabled="" type="radio"><b>Random steps</b></td>
 <td></td>
 <td></td>
 <td></td>
